@@ -1,0 +1,6 @@
+streamlit
+keras
+tensorflow
+nltk
+scikit-learn
+vaderSentiment
